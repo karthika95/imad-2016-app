@@ -7,10 +7,10 @@ element.innerHTML="Hello. Now text is changed through java script :) ";
 var image = document.getElementById('madi');
 var marginLeft = 0;
 function moveRight() {
-    marginLeft+=10;
+    marginLeft+=1;
     image.style.marginLeft= marginLeft +'px';
 }
 image.onclick = function() {
-    var interval = setInterval(moveRight,100);
+    var interval = setInterval(moveRight,50);
     image.style.marginleft='100px';
 }
