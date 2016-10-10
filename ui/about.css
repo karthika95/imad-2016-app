@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>
+			About
+		</title>
+		
+	</head>
+	<style>
+	h1{
+		padding-top:20px;
+		text-align:center;
+		font-weight:strong;
+		color:#7E1C16;
+	}
+	a{
+		padding-left:15px;
+		font-size:20px;
+		font-weight:strong;
+		color:#7E1C16;
+		text-decoration:none;
+	}
+	
+	p{
+		color:#C72F16;
+	}
+	</style>
+	<body style="background-color:#F0C184;border:3px solid brown">
+		<h1 style="color:#661B0F">About Me</h1>
+		
+		<a style="color:#661B0F" href="profile1.html">Back</a></br></br></br>
+		
+		<div align=center>
+		
+			<p> Myself, Karthika, currently pursuing final year CS&E at Government College of Engineering, Hassan.<br/> Welcome to my page. 
+		</div>
+	</body>
+</html>
